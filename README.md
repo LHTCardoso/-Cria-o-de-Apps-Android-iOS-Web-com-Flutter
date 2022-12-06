@@ -20,6 +20,11 @@ pergunta se é igual.
 
 > ou >=
 
-Uso do operador 'e' ou 'and'
+Uso do operador 'e' ou 'and' para impressão:
 
 ![WhatsApp Image 2022-12-06 at 10 10 03](https://user-images.githubusercontent.com/115110679/205921509-05f4e61d-864d-4c5c-811b-c82e0597762c.jpeg)
+
+Uso do operador 'ou' para impressão:
+
+![WhatsApp Image 2022-12-06 at 10 13 39](https://user-images.githubusercontent.com/115110679/205922259-168234aa-413d-4ba4-8972-df0b4f6f15ad.jpeg)
+
