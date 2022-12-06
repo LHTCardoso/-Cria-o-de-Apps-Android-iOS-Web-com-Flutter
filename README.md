@@ -11,9 +11,13 @@ O uso do else: A estrutura condicional if/else é um recurso que indica quais in
 ## Aula 17 ##
 
 boole r = variavel boolena que imprime true or false. Uso do print(r);
+
 != pergunta se é diferente.
-== pergunta se é igual.
+
+pergunta se é igual.
+
 < ou <=
+
 > ou >=
 
 Uso do operador 'e' ou 'and'
