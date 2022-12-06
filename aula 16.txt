@@ -1,0 +1,11 @@
+  void main() {
+  int idade = 12;
+ 
+  if(idade >= 18){
+  print('é maior de idade?');
+  print('Oi rs');
+  } else{
+  print('é menor de idade?');
+  print('to fora');
+  }
+}
