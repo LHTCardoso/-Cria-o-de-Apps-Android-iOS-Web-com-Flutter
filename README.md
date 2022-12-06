@@ -1,7 +1,7 @@
 # Anotações # // # Exemplos na pasta Udemy #
 
 # Diretório da pasta #
-C:\Users\luiz_\OneDrive\Área de Trabalho\Udemy\-Cria-o-de-Apps-Android-iOS-Web-com-Flutter#
+C:\Users\luiz_\OneDrive\Área de Trabalho\Udemy\-Cria-o-de-Apps-Android-iOS-Web-com-Flutter
 
 
 ## Aula 16 ##
