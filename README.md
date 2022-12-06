@@ -16,5 +16,6 @@ boole r = variavel boolena que imprime true or false. Uso do print(r);
 < ou <=
 > ou >=
 
-Uso da variavel 'e' ou 'and'
-![image](https://user-images.githubusercontent.com/115110679/205915737-ecb544ef-3f36-4189-96b1-efa83f7c200e.png)
+Uso do operador 'e' ou 'and'
+
+![image](https://user-images.githubusercontent.com/115110679/205917122-c1fe770f-26e9-4075-86d4-5cc0ce72b190.png)
