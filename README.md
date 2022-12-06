@@ -22,4 +22,4 @@ pergunta se é igual.
 
 Uso do operador 'e' ou 'and'
 
-![image](https://user-images.githubusercontent.com/115110679/205917122-c1fe770f-26e9-4075-86d4-5cc0ce72b190.png)
+![WhatsApp Image 2022-12-06 at 10 10 03](https://user-images.githubusercontent.com/115110679/205921509-05f4e61d-864d-4c5c-811b-c82e0597762c.jpeg)
