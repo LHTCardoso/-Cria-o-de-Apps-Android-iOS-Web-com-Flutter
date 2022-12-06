@@ -25,3 +25,5 @@ e = &&
 ou = ||
 negação = Uso do '!' no print -> print(!r)
 
+## Aula 18 
+
